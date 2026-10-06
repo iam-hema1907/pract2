@@ -1,2 +1,3 @@
 Hello from file
 second msg
+third msg
